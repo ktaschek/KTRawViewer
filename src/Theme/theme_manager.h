@@ -1,0 +1,4 @@
+#ifndef THEMEMANAGER_H
+#define THEMEMANAGER_H
+
+#endif // THEMEMANAGER_H
